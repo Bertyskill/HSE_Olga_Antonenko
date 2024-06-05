@@ -47,9 +47,9 @@ class ParserCBRF:
                 continue
 
             code = cells[1].text
-            m = ParserCBRF._parse_number(cells[4].text)
-            n = ParserCBRF._parse_number(cells[2].text)
-            rates[code] = m / n
+            a = ParserCBRF._parse_number(cells[4].text)
+            b = ParserCBRF._parse_number(cells[2].text)
+            rates[code] = a / b
 
         return rates
 
