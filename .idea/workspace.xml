@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eda5965-358e-4a4d-abda-8938590e09ac" name="Changes" comment="..">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="7e850317-fafb-48a9-a6e8-952abcc2fd1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/HSE_Olga_Antonenko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HSE_Olga_Antonenko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/1000_efrsb_messages.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/1000_efrsb_messages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/court_dates.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/court_dates.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/emails.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/emails.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/lesson3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/test" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/traders.csv" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/traders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/traders.json" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/traders.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/traders.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/traders.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 3/А40-183194-2015.ics" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 3/v1/А40-183194-2015.ics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/ДЗ 13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,72 +38,55 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2f0hBMl501H006lI7mkiY8q5K16" />
+  <component name="ProjectId" id="2hSBQVhRvybIqELyxjji6jtpLc9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.5.executor": "Run",
     "Python.lesson3.executor": "Run",
-    "Python.дз 9.executor": "Run",
-    "Python.дз.executor": "Run",
-    "Python.дз10.executor": "Run",
-    "Python.дз8.executor": "Run",
-    "Python.№2.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.ДЗ 13.executor": "Debug",
+    "Python.тест.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7eda5965-358e-4a4d-abda-8938590e09ac" name="Changes" comment="" />
-      <created>1712943768297</created>
+      <changelist id="7e850317-fafb-48a9-a6e8-952abcc2fd1f" name="Changes" comment="" />
+      <created>1717577585696</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712943768297</updated>
-      <workItem from="1712943770489" duration="179000" />
+      <updated>1717577585696</updated>
+      <workItem from="1717577588996" duration="7000" />
     </task>
-    <task id="LOCAL-00001" summary=".">
-      <option name="closed" value="true" />
-      <created>1713551673066</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1713551673066</updated>
-    </task>
-    <task id="LOCAL-00002" summary="..">
-      <option name="closed" value="true" />
-      <created>1713551740134</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1713551740134</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="C:\Users\ewagn\PycharmProjects\HSE_Olga_Antonenko\.venv" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="." />
-    <MESSAGE value=".." />
-    <option name="LAST_COMMIT_MESSAGE" value=".." />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HSE_Olga_Antonenko_$.coverage" NAME="дз Coverage Results" MODIFIED="1712943829127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson 4" />
-    <SUITE FILE_PATH="coverage/HSE_Olga_Antonenko_$8.coverage" NAME="дз8 Coverage Results" MODIFIED="1712943781666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson 4" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
