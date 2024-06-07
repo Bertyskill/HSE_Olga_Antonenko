@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e850317-fafb-48a9-a6e8-952abcc2fd1f" name="Changes" comment="/">
+      <change afterPath="$PROJECT_DIR$/Lesson 7/ДЗ 13 простое 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 7/2024-06-05.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 7/ДЗ 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 7/ДЗ 13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +34,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1.executor": "Run",
     "Python.lesson3.executor": "Run",
+    "Python.tesr.executor": "Run",
     "Python.test (2).executor": "Run",
+    "Python.test (3).executor": "Run",
     "Python.test.executor": "Run",
+    "Python.ДЗ 13 простое 2.executor": "Run",
+    "Python.ДЗ 13 простое.executor": "Run",
     "Python.ДЗ 13.executor": "Run",
     "Python.тест.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -77,7 +81,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717601452210</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="/">
+      <option name="closed" value="true" />
+      <created>1717614041995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717614041995</updated>
+    </task>
+    <task id="LOCAL-00003" summary="/">
+      <option name="closed" value="true" />
+      <created>1717614063034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717614063034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
