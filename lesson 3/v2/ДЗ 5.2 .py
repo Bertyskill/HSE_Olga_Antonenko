@@ -22,7 +22,7 @@ def load_messages_json(file_name):
 
 def main():
     messages_json = load_messages_json('100000_efrsb_messages.json')
-
+    # В гит файл json на 100 000 не загрузился из-за размера
     result = {}
     for m in messages_json:
         publisher_inn = m['publisher_inn']
